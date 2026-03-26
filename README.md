@@ -84,7 +84,7 @@ TAVILY_API_KEY=your_tavily_key_here    # optional
 streamlit run app.py
 ```
 
-Open **http://localhost:8501** in your browser. 🎉
+
 
 ---
 
