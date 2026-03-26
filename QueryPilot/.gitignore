@@ -1,0 +1,29 @@
+# Environment — NEVER commit this
+.env
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+.Python
+venv/
+env/
+.venv/
+
+# QueryPilot generated reports
+reports/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Streamlit
+.streamlit/
+
+# Build
+build/
+dist/
+*.egg-info/
